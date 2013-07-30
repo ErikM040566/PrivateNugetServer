@@ -1,0 +1,14 @@
+C:\Source\NG\PrivateNugetServer\NugetServer\bin\NugetServer.dll
+C:\Source\NG\PrivateNugetServer\NugetServer\bin\NugetServer.pdb
+C:\Source\NG\PrivateNugetServer\NugetServer\bin\Elmah.dll
+C:\Source\NG\PrivateNugetServer\NugetServer\bin\Microsoft.Web.Infrastructure.dll
+C:\Source\NG\PrivateNugetServer\NugetServer\bin\Microsoft.Web.XmlTransform.dll
+C:\Source\NG\PrivateNugetServer\NugetServer\bin\Ninject.dll
+C:\Source\NG\PrivateNugetServer\NugetServer\bin\NuGet.Core.dll
+C:\Source\NG\PrivateNugetServer\NugetServer\bin\NuGet.Server.dll
+C:\Source\NG\PrivateNugetServer\NugetServer\bin\RouteMagic.dll
+C:\Source\NG\PrivateNugetServer\NugetServer\bin\WebActivator.dll
+C:\Source\NG\PrivateNugetServer\NugetServer\bin\Ninject.xml
+C:\Source\NG\PrivateNugetServer\NugetServer\obj\Debug\NugetServer.csprojResolveAssemblyReference.cache
+C:\Source\NG\PrivateNugetServer\NugetServer\obj\Debug\NugetServer.dll
+C:\Source\NG\PrivateNugetServer\NugetServer\obj\Debug\NugetServer.pdb
